@@ -1,0 +1,1 @@
+user_events_agg: task still running past the SLA window, meanwhile a downstream consumer reported a missing column on the last successful output

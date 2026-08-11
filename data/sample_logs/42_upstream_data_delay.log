@@ -1,0 +1,1 @@
+user_events_agg: stale partition detected, upstream job 'raw_ingest' has not run in 26 hours

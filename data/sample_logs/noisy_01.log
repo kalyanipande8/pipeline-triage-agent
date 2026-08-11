@@ -1,0 +1,1 @@
+revenue_rollup: task failed after retrying due to connection reset; downstream also reports type mismatch on column 'order_total' once the retry succeeded

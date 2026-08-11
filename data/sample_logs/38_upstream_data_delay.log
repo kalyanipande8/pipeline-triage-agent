@@ -1,0 +1,1 @@
+customer_churn_features: upstream table 'raw.events' not ready - partition for 2026-08-10 not found

@@ -1,0 +1,1 @@
+daily_orders_etl task failed: invalid schema, column 'order_total' not found in source table

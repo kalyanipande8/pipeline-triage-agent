@@ -1,0 +1,1 @@
+user_events_agg failed: ModuleNotFoundError: No module named 'pyarrow'

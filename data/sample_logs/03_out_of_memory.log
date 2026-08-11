@@ -1,0 +1,2 @@
+user_events_agg: MemoryError while loading dataframe into memory (requested 18.2GB, limit 16GB)
+Exceeded memory limit for pod

@@ -1,0 +1,1 @@
+PermissionError: clickstream_dedupe received permission denied writing to /data/warehouse/clickstream_dedupe

@@ -1,0 +1,1 @@
+inventory_sync: run skipped, upstream partition not found; the same task also logged a stale credentials warning from an earlier retry

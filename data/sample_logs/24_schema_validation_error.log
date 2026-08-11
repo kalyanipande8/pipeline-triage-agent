@@ -1,0 +1,1 @@
+warehouse_load rejected 3,402 rows: type mismatch on 'created_at' (expected TIMESTAMP)

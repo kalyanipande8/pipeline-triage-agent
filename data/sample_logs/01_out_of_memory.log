@@ -1,0 +1,2 @@
+Task customer_churn_features failed: java.lang.OutOfMemoryError: Java heap space
+Container killed, exit code 137 (OOMKilled)

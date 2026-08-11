@@ -1,0 +1,1 @@
+ValidationError in user_events_agg: missing required field 'event_timestamp' in 214 records

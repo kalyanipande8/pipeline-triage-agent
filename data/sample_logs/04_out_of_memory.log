@@ -1,0 +1,1 @@
+ERROR customer_churn_features: cannot allocate memory for shuffle buffer, spark executor exited with OOM

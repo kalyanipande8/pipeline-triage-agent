@@ -1,0 +1,1 @@
+clickstream_dedupe failed: type mismatch on column 'user_id', expected INT64 got STRING
